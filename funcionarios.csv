@@ -1,0 +1,6 @@
+matricula;nome;cpf;dataNascimento;cargo;salario;dataContratacao;logradouro;numero;complemento;bairro;cidade;estado;cep
+100001;Ana Souza;529.982.247-25;1990-05-10;Analista;5000.00;2020-01-02;Rua 10;120;Apto 301;Setor Oeste;Goiânia;GO;74120-020
+100002;Bruno Lima;111.444.777-35;1985-08-22;Analista;7000.00;2018-03-15;Avenida Goiás;45;;Centro;Goiânia;GO;74005-010
+100003;Carla Mendes;935.411.347-80;1979-11-03;Gerente;12000.50;2015-07-01;Rua Brasil;300;;Jundiaí;Anápolis;GO;75110-810
+100004;Diego Rocha;168.995.350-09;1995-02-14;Desenvolvedor;8000.00;2022-09-12;Rua Augusta;1500;Sala 4;Consolação;São Paulo;SP;01305-100
+123456;Pedro Silva;70613068157;2007-01-03;Suporte;2000;2026-10-16;Rua AC6;SN;Quadra 1 Lote 18;Residencial Ana Clara;Goiânia;GO;74356160
